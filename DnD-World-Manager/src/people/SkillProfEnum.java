@@ -1,0 +1,6 @@
+package people;
+
+public enum SkillProfEnum {
+
+	ACROBATICS,ATHLETICS,DECEPTION,PERCEPTION,PERSUASION,SLEIGHTOFHAND;
+}
